@@ -14,6 +14,6 @@ Key Metrics Visualized:
 * Average Rating by Country
 * Average Rating by Aircraft
 
-For ease of access, check the file **"My First Dashboard.png"** to preview the dashboard.
+For ease of access, check the file **"British Airways Dashboard.png"** to preview the dashboard.
 
 Also feel free to download both the dataset and the Tableau workbook to explore further.
