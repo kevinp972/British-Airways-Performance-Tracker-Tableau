@@ -10,9 +10,18 @@ The British Airways Performance Tracker allows users to explore various performa
 * Aircraft
 
 Key Metrics Visualized:
-* Average Overall Rating by Month
-* Average Rating by Country
-* Average Rating by Aircraft
+* Overall Rating
+* Cabin Staff Service
+* Entertainment
+* Food
+* Ground Service
+* Seat Comfort
+* Value
+
+Visualizations Available:
+* Trends by Month
+* Insights by Country
+* Analysis by Aircraft Type
 
 For ease of access, check the file **"British Airways Dashboard.png"** to preview the dashboard.
 
